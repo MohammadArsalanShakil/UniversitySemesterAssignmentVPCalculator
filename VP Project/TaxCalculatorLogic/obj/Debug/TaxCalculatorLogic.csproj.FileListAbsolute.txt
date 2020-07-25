@@ -1,0 +1,6 @@
+C:\Users\Arsalan\source\repos\VP Project\TaxCalculatorLogic\bin\Debug\TaxCalculatorLogic.dll
+C:\Users\Arsalan\source\repos\VP Project\TaxCalculatorLogic\bin\Debug\TaxCalculatorLogic.pdb
+C:\Users\Arsalan\source\repos\VP Project\TaxCalculatorLogic\obj\Debug\TaxCalculatorLogic.csproj.CoreCompileInputs.cache
+C:\Users\Arsalan\source\repos\VP Project\TaxCalculatorLogic\obj\Debug\TaxCalculatorLogic.dll
+C:\Users\Arsalan\source\repos\VP Project\TaxCalculatorLogic\obj\Debug\TaxCalculatorLogic.pdb
+C:\Users\Arsalan\source\repos\VP Project\TaxCalculatorLogic\obj\Debug\TaxCalculatorLogic.csprojAssemblyReference.cache
